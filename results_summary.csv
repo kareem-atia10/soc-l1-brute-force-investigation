@@ -1,0 +1,4 @@
+Account_Name,Source_IP,Failed_Logons,Successful_Logons,Pattern,Triage
+john,185.199.110.23,12,1,Failure then success,Suspicious; escalate
+administrator,103.45.67.89,5,0,Failures only in sample,Investigate context
+test,192.168.1.45,3,0,Failures only in sample,Likely lower priority; validate

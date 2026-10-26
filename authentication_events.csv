@@ -1,0 +1,22 @@
+_time,EventCode,Account_Name,Source_IP,Logon_Type,Result,Host,Message
+2026-10-26T09:01:03,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:01:11,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:01:19,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:01:27,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:01:35,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:01:43,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:01:51,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:01:59,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:02:07,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:02:15,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:02:23,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:02:31,4625,john,185.199.110.23,3,Failure,Workstation-01,Logon failure: bad password
+2026-10-26T09:07:36,4624,john,185.199.110.23,3,Success,Workstation-01,Successful logon after repeated failures
+2026-10-26T09:08:04,4625,administrator,103.45.67.89,3,Failure,Server-01,Logon failure: bad password
+2026-10-26T09:08:12,4625,administrator,103.45.67.89,3,Failure,Server-01,Logon failure: bad password
+2026-10-26T09:08:20,4625,administrator,103.45.67.89,3,Failure,Server-01,Logon failure: bad password
+2026-10-26T09:08:28,4625,administrator,103.45.67.89,3,Failure,Server-01,Logon failure: bad password
+2026-10-26T09:08:36,4625,administrator,103.45.67.89,3,Failure,Server-01,Logon failure: bad password
+2026-10-26T09:12:01,4625,test,192.168.1.45,3,Failure,Workstation-02,Logon failure: bad password
+2026-10-26T09:12:10,4625,test,192.168.1.45,3,Failure,Workstation-02,Logon failure: bad password
+2026-10-26T09:12:19,4625,test,192.168.1.45,3,Failure,Workstation-02,Logon failure: bad password
